@@ -1,0 +1,15 @@
+C:\Taller Computacion\bin\Debug\net6.0\Taller Computacion.exe
+C:\Taller Computacion\bin\Debug\net6.0\Taller Computacion.deps.json
+C:\Taller Computacion\bin\Debug\net6.0\Taller Computacion.runtimeconfig.json
+C:\Taller Computacion\bin\Debug\net6.0\Taller Computacion.dll
+C:\Taller Computacion\bin\Debug\net6.0\Taller Computacion.pdb
+C:\Taller Computacion\obj\Debug\net6.0\Taller Computacion.csproj.AssemblyReference.cache
+C:\Taller Computacion\obj\Debug\net6.0\Taller Computacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller Computacion\obj\Debug\net6.0\Taller Computacion.AssemblyInfoInputs.cache
+C:\Taller Computacion\obj\Debug\net6.0\Taller Computacion.AssemblyInfo.cs
+C:\Taller Computacion\obj\Debug\net6.0\Taller Computacion.csproj.CoreCompileInputs.cache
+C:\Taller Computacion\obj\Debug\net6.0\Taller Computacion.dll
+C:\Taller Computacion\obj\Debug\net6.0\refint\Taller Computacion.dll
+C:\Taller Computacion\obj\Debug\net6.0\Taller Computacion.pdb
+C:\Taller Computacion\obj\Debug\net6.0\Taller Computacion.genruntimeconfig.cache
+C:\Taller Computacion\obj\Debug\net6.0\ref\Taller Computacion.dll
